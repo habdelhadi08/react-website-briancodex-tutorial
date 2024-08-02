@@ -1,0 +1,17 @@
+.Services{
+   
+    background-image: url("../../../public/images/20cbf31ecf279ccab1a3264a2cec80c6.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    background-attachment: fixed;
+    
+    background-size:cover;
+    z-index: -1;
+    
+    
+
+}

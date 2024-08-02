@@ -1,0 +1,26 @@
+.Sign-up{
+   
+    background-image: url("../images/depositphotos_46103085-stock-photo-sing-up-on-red-keyboard.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    background-attachment: fixed;
+    
+    background-size:cover;
+    z-index: -1;
+    
+    
+
+}
+h1{
+    color:blue;
+}
+
+label{
+    
+    color:blue;
+    margin-right: 40px;
+}
